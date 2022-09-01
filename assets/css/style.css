@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Style of header where 'Horiseon' should display*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/*Display style for large image near the top of the page*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -69,11 +73,15 @@ p {
     margin-left: 25px;
 }
 
+/*Display style for the body of the page*/
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/*Display style for the sidebar of the body*/
 
 .benefits {
     margin-right: 20px;
@@ -187,6 +195,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*Display style for the footer of the page*/
 
 .footer {
     padding: 30px;
